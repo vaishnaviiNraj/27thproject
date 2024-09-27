@@ -1,0 +1,5 @@
+bag
+cat
+draw
+pen
+switch
